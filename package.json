@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
 
-"homepage": "https://brunoCabralSilva.github.io/carousel-react-tailwind",
+"homepage": "https://brunocabralsilva.github.io/carousel-react-tailwind",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
