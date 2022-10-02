@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/carousel-react-tailwind/static/css/main.db303bec.css",
+    "main.js": "/carousel-react-tailwind/static/js/main.43b7e30a.js",
+    "static/media/01.jpg": "/carousel-react-tailwind/static/media/01.8e36128a3f83890f7216.jpg",
+    "static/media/03.jpg": "/carousel-react-tailwind/static/media/03.f46881be367e7dd9e03f.jpg",
+    "static/media/05.jpg": "/carousel-react-tailwind/static/media/05.82d7d5a63e72ab06021b.jpg",
+    "static/media/04.jpg": "/carousel-react-tailwind/static/media/04.69f4423df73097f5c41f.jpg",
+    "static/media/02.jpg": "/carousel-react-tailwind/static/media/02.962baeb1c21660a8ed43.jpg",
+    "index.html": "/carousel-react-tailwind/index.html",
+    "main.db303bec.css.map": "/carousel-react-tailwind/static/css/main.db303bec.css.map",
+    "main.43b7e30a.js.map": "/carousel-react-tailwind/static/js/main.43b7e30a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db303bec.css",
+    "static/js/main.43b7e30a.js"
+  ]
+}
